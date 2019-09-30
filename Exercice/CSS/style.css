@@ -4,3 +4,9 @@ div {
     border: solid 1px black;
     width: fit-content;
 }
+
+.makeblue{
+    background-color: lightblue;
+    text-decoration: line-through;
+}
+
