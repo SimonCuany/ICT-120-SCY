@@ -10,11 +10,16 @@ function remove() {
     div1.classList.remove('makeblue')
 }
 
-div3.addEventListener('mouseover')
+div3.addEventListener('mouseover', arial)
+div3.addEventListener('mouseout', Times)
 
 function arial() {
-div3.style.fontFamily="arial"
+div3.style.fontFamily= "Arial"
 
+}
+
+function Times() {
+    div3.style.fontFamily="Times new roman"
 }
 
 
