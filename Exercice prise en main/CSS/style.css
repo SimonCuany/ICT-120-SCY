@@ -6,10 +6,16 @@ div {
 }
 
 .makeblue{
-    background-color: lightblue;
+    background-color: deepskyblue;
     text-decoration: line-through;
 }
 
 .arial{
     font-family: Arial, serif;
+}
+
+.yes{
+    font-size: 50px;
+    color: white;
+    background-color: chartreuse;
 }

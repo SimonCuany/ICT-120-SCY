@@ -14,26 +14,26 @@
 <h2>3. Gérer les événements</h2>
 <div id="div3">Ce texte doit être en police Arial quand la souris le survole</div>
 <h2>4. Détruire / Ajouter des éléments</h2>
-<div id="4">
+<div id="div4">
     Cette div devient un gros 'YES' en blanc sur fond vert quand les deux checkboxes dessous sont cochées.<br>
-    <input type="checkbox"></input><input type="checkbox"></input>
+    <input type="checkbox" id="box1"></input><input type="checkbox" id="box2"></input>
 </div>
 <h2>5. Détruire / Ajouter des éléments</h2>
-<div id="5">
+<div id="div5" id="destroy">
     Quand on clique sur ce texte, ça détruit
-    <div>cette div</div>
+    <div id="kaboom">cette div</div>
 </div>
 <h2>6. Gérer la valeur d'un élément du DOM</h2>
-<div id="6">
+<div id="div6">
     Quand l'utilisateur tape son nom, le champ initiales se remplit automatiquement
     <form>
-        Nom: <input name="txtName" type="text"><br>
-        Initiales: <input name="txtInitials" type="text"><br>
+        Nom: <input name="txtName" type="text" id="textname"><br>
+        Initiales: <input name="txtInitials" type="text" id="ini"><br>
         <input type="submit" value="Ok">
     </form>
 </div>
 <h2>7. Modifier des attributs d'éléments, Utiliser un timer, Cacher/Montrer un élément</h2>
-<div id="7">
+<div id="div7">
     Gérez la séquence de départ:
     <ul>
         <li>Le bouton 'A vos marques' est actif, le bouton 'Prêt' est désactivé, le bouton 'Partez' est invisible</li>
