@@ -49,4 +49,8 @@ function initial() {
     ini.value = first + second + third
 }
 
+div7.addEventListener('')
 
+function course() {
+
+}
