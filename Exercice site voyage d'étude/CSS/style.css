@@ -4,7 +4,10 @@
     border-width: 5px;
 
 }
+#boutons {
+    font-size: large;
 
+}
 
 body {
     background-color: white;
@@ -23,4 +26,21 @@ table,
 td {
 
     border: 1px solid #333;
+}
+
+a {
+    color: blue;
+     font-style: unset;
+}
+
+#images{
+    float: left;
+    z-index:-1;
+
+}
+
+p {
+border-style: solid;
+
+
 }
