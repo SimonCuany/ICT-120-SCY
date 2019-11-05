@@ -2,10 +2,8 @@
     text-align: center;
     border-style: solid;
     border-width: 5px;
-
-}
-#boutons {
-    font-size: large;
+    padding: 5px;
+    font-size: 50px;
 
 }
 
@@ -13,10 +11,12 @@ body {
     background-color: white;
     color: black;
 }
+
 td:hover {
     background-color: #8bd0ff;
     color: black;
 }
+
 table {
     width: 100%;
     text-align: center;
@@ -25,22 +25,31 @@ table {
 table,
 td {
 
-    border: 1px solid #333;
+    border: 1px solid;
 }
 
 a {
     color: blue;
-     font-style: unset;
+    font-style: unset;
+    font-size: 25px;
 }
 
-#images{
+#images {
+    padding: 10px;
+    margin-right: 10px;
     float: left;
-    z-index:-1;
 
 }
 
 p {
-border-style: solid;
+    font-size: 25px;
+    padding: 10px;
+    text-align: justify;
+    border-style: solid;
 
+}
+
+#texte {
+    margin-left: 20px;
 
 }
