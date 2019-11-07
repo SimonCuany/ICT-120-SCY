@@ -9,6 +9,9 @@
     <meta charset="UTF-8">
     <title>Voyage d'étude à Pékin</title>
     <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
 
 </head>
 <body>
@@ -35,14 +38,15 @@
 
 </table>
 <br>
-<div id="images">
+<div id="images" align="center">
     <img src="Image1.jpg" height="650" width="400" id="image1"/>
     <img src="Image2.jpg" height="650" width="400" id="image2" hidden/>
     <img src="Image3.jpg" height="650" width="400" id="image3" hidden/>
-    <div class="btn-group" role="group" aria-label="Basic example" style="text-align: center">
-        <button type="button" class="btn btn-secondary" id="one">One</button>
-        <button type="button" class="btn btn-secondary" id="Two">Two</button>
-        <button type="button" class="btn btn-secondary" id="three">Three</button>
+    <br> <br>
+    <div class="btn-group" role="group" aria-label="Basic example" style="text-align: center" align="center">
+        <button type="button" class="btn btn-primary" id="one">One</button>
+        <button type="button" class="btn btn-primary" id="Two">Two</button>
+        <button type="button" class="btn btn-primary" id="three">Three</button>
     </div>
 </div>
 <div id="texte" align="center">
@@ -59,9 +63,21 @@
         Nam turpis massa, molestie at mollis vel, auctor sit amet lacus. Mauris id scelerisque ante. Donec bibendum
         imperdiet mi, non placerat nisl rhoncus eu. In id scelerisque est. Aenean quis sapien sed massa malesuada.
     </p>
+    <div  class="col-6"  id="button2">
+        <button type="submit" class="col-6 btn btn-secondary " id="inscrire">Inscrire des personnes</button>
+
+        <button type="submit" class="col-6 btn btn-secondary " id="interface">Préference interface</button>
+    </div>
+    <div  class="col-6"  id="button3">
+        <button type="submit" class="col-6 btn btn-secondary " id="enregistrer">S'enregistrer</button>
+
+        <button type="submit" class="col-6 btn btn-secondary " id="login">Login</button>
+    </div>
 
 
 </div>
+
+
 </body>
 <script src="JavaScript/script.js"></script>
 </html>
