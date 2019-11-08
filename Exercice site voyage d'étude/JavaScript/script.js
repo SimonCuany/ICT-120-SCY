@@ -21,3 +21,4 @@ function trois() {
     image2.hidden = true
     image3.hidden = false
 }
+
