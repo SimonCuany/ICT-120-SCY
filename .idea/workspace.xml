@@ -23,13 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1Pxrg7sRLXpQVaaSdFcqLeUWkgG" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="C:/tools/php73/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICT-133/Calendrier PHP" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
@@ -45,7 +46,11 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ICT-120" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8088">
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/../ICT-133/Calendrier PHP" port="8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="ict-133" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/../ICT-133/Calendrier PHP" port="8080">
+      <CommandLine workingDirectory="$PROJECT_DIR$/../ICT-133/Calendrier PHP" />
       <method v="2" />
     </configuration>
   </component>
@@ -75,6 +80,7 @@
       <workItem from="1573110608590" duration="3999000" />
       <workItem from="1573130158119" duration="4576000" />
       <workItem from="1573223842612" duration="1254000" />
+      <workItem from="1576516495036" duration="3353000" />
     </task>
     <servers />
   </component>
