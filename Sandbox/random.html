@@ -8,21 +8,16 @@
 <h1 align="center">Compteur cbn le nombre donné par l'utilisateur est sorti de manière aléatoire</h1>
 </body>
 
-<button id="btnclick" onclick="randomFunction()">Click me</button>
 <script>
     //[-----------------------random code---------------------------]
-
+random = prompt("Choisissez un chiffre svp (entier)")
     function randomFunction() {
 
         random = Math.floor(Math.random() * 11)
     }
 
-    if (btnclick.onclick === true) {
+    if (random.onclick == true) {
         document.write(randomFunction())
-
-    }
-    if (randomFunction() == prompt("Choisissez un chiffre svp (entier)")) {
-
 
     }
 

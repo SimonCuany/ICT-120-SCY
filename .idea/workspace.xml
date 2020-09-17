@@ -14,6 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -33,6 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,6 +83,7 @@
       <workItem from="1573223842612" duration="1254000" />
       <workItem from="1576516495036" duration="3353000" />
       <workItem from="1599468705611" duration="4954000" />
+      <workItem from="1600073253762" duration="12423000" />
     </task>
     <servers />
   </component>
@@ -103,13 +107,23 @@
       <screen x="93" y="0" width="1827" height="1080" />
     </state>
     <state x="460" y="194" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/93.0.1827.1080@93.0.1827.1080" timestamp="1599468772394" />
-    <state x="824" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599473221814">
-      <screen x="93" y="0" width="1827" height="1080" />
+    <state x="361" y="466" key="NewPhpFileDialog" timestamp="1600085901250">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state x="361" y="466" key="NewPhpFileDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1600085901250" />
+    <state x="805" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600084450201">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="805" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080@62.0.1858.1080" timestamp="1600084450201" />
     <state x="824" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/93.0.1827.1080@93.0.1827.1080" timestamp="1599473221814" />
-    <state x="669" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1599470579258">
-      <screen x="93" y="0" width="1827" height="1080" />
+    <state x="182" y="254" key="run.anything.popup" timestamp="1600086147673">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state x="182" y="254" key="run.anything.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1600086147673" />
+    <state x="648" y="235" width="684" height="678" key="search.everywhere.popup" timestamp="1600077299227">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="648" y="235" width="684" height="678" key="search.everywhere.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1600077299227" />
     <state x="669" y="235" width="672" height="678" key="search.everywhere.popup/93.0.1827.1080@93.0.1827.1080" timestamp="1599470579258" />
   </component>
 </project>
