@@ -13,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -25,6 +25,7 @@
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1Pxrg7sRLXpQVaaSdFcqLeUWkgG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../globescope/site" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -50,6 +51,9 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$/Voyage d'étude 2.0" port="8080">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/../ICT-133/Calendrier PHP" port="8080">
       <method v="2" />
     </configuration>
@@ -84,6 +88,11 @@
       <workItem from="1576516495036" duration="3353000" />
       <workItem from="1599468705611" duration="4954000" />
       <workItem from="1600073253762" duration="12423000" />
+      <workItem from="1600411063451" duration="41000" />
+      <workItem from="1600938517579" duration="70000" />
+      <workItem from="1601282437343" duration="1589000" />
+      <workItem from="1601285700419" duration="7667000" />
+      <workItem from="1601881492886" duration="23000" />
     </task>
     <servers />
   </component>
@@ -103,18 +112,51 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="460" y="194" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599468772394">
-      <screen x="93" y="0" width="1827" height="1080" />
+    <state x="571" y="230" key="#CLI_Interpreters" timestamp="1601283370082">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state x="571" y="230" key="#CLI_Interpreters/62.0.1858.1080@62.0.1858.1080" timestamp="1601283370082" />
+    <state x="698" y="218" key="#PHP" timestamp="1601283371382">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="698" y="218" key="#PHP/62.0.1858.1080@62.0.1858.1080" timestamp="1601283371382" />
+    <state x="435" y="194" width="1111" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601287183045">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="435" y="194" width="1111" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601287183045" />
     <state x="460" y="194" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/93.0.1827.1080@93.0.1827.1080" timestamp="1599468772394" />
+    <state x="721" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601282738932">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="721" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601282738932" />
+    <state x="770" y="330" key="FileChooserDialogImpl" timestamp="1601881513827">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="770" y="330" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1601881513827" />
+    <state width="1815" height="88" key="GridCell.Tab.0.bottom" timestamp="1601296727211">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="88" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1601296727211" />
+    <state width="1815" height="88" key="GridCell.Tab.0.center" timestamp="1601296727211">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="88" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1601296727211" />
+    <state width="1815" height="88" key="GridCell.Tab.0.left" timestamp="1601296727211">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="88" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1601296727211" />
+    <state width="1815" height="88" key="GridCell.Tab.0.right" timestamp="1601296727211">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="88" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1601296727211" />
     <state x="361" y="466" key="NewPhpFileDialog" timestamp="1600085901250">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="361" y="466" key="NewPhpFileDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1600085901250" />
-    <state x="805" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600084450201">
+    <state x="805" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601287721095">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="805" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080@62.0.1858.1080" timestamp="1600084450201" />
+    <state x="805" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080@62.0.1858.1080" timestamp="1601287721095" />
     <state x="824" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/93.0.1827.1080@93.0.1827.1080" timestamp="1599473221814" />
     <state x="182" y="254" key="run.anything.popup" timestamp="1600086147673">
       <screen x="62" y="0" width="1858" height="1080" />
