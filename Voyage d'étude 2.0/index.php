@@ -153,6 +153,13 @@
         </label>
         <input type="text" name="txtHotelData[05]" id="txtHotelData05" class="input-group"><br>
         <input type="submit" value="Submit" class="btn_submit"><br><br>
+        <img src="" alt="" id="imgAlpha">
+        <img src="" alt="" id="imgBeta">
+        <img src="" alt="" id="imgDelta">
+        <img src="" alt="" id="imgGamma">
+        <img src="" alt="" id="imgNone">
+
+
 
     Chambre:<input type="text" name="txtRoom[00]" id="txtRoom00">Etage:<input type="text" name="txtFloor[00]" id="txtFloor00">Max personnes:<input type="text" name="txtCapacity[00]" id="txtCapacity00">Occupant1:<input type="text" name="txtOcc1[00]" id="txtOcc100">Occupant2:<input type="text" name="txtOcc2[00]" id="txtOcc200">Occupant3:<input type="text" name="txtOcc3[00]" id="txtOcc300">Occupant4:<input type="text" name="txtOcc4[00]" id="txtOcc400"><br>
     Chambre:<input type="text" name="txtRoom[01]" id="txtRoom01">Etage:<input type="text" name="txtFloor[01]" id="txtFloor01">Max personnes:<input type="text" name="txtCapacity[01]" id="txtCapacity01">Occupant1:<input type="text" name="txtOcc1[01]" id="txtOcc101">Occupant2:<input type="text" name="txtOcc2[01]" id="txtOcc201">Occupant3:<input type="text" name="txtOcc3[01]" id="txtOcc301">Occupant4:<input type="text" name="txtOcc4[01]" id="txtOcc401"><br>

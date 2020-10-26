@@ -36,4 +36,12 @@ document.addEventListener('DOMContentLoaded', function () {
         document.getElementById('Hebergement').classList.add('hidden')
         document.getElementById('Participants').classList.add('hidden')
     }
-})
+
+
+    function showImg(){
+        imgAlpha.src = "pictures/hotel-alpha.jpg"
+    }
+
+
+}
+)
