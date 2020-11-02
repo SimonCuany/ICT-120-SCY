@@ -38,23 +38,17 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
 
-        document.getElementById('Btn_Hebergement').addEventListener('click', showImg)
-
-        function showImg() {
-            txtHotelData00.classList.add('hidden')
-        }
-
-        document.getElementById('txtHotelData00').addEventListener('click', function (){
+        document.getElementById('txtHotelData00').addEventListener('blur', function () {
             console.log("Blabla")
             if (txtHotelData00.value === "alpha") {
-                imgAlpha.classList.remove('hidden')
+                imgAlpha.src = "pictures/hotel-alpha.jpg"
+            }
+            else {
+                imgAlpha.src = "pictures/hotel-none.png"
             }
         })
 
 
-
     }
-
-
 )
 

@@ -154,7 +154,7 @@
         </label>
         <input type="text" name="txtHotelData[05]" id="txtHotelData05" class="input-group"><br>
         <input type="submit" value="Submit" class="btn_submit"><br><br>
-        <img src="pictures\hotel-alpha.jpg" alt="" id="imgAlpha">
+        <img src="pictures\hotel-none.png" alt="" id="imgAlpha">
         <img src="" alt="" id="imgBeta">
         <img src="" alt="" id="imgDelta">
         <img src="" alt="" id="imgGamma">
@@ -196,8 +196,6 @@
 </form>
 </body>
 </html>
-
-
 
 
 <script src="js/reload.js"></script>
