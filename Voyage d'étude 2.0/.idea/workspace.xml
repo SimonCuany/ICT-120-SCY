@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand />
-    <select />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="df0794aa-afa2-4c59-8a6e-39183b9d3d5e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +15,6 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1iS5i3Oc4FRFzuEZCGTpISWpuoR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,23 +47,12 @@
       <option name="presentableId" value="Default" />
       <updated>1601888275125</updated>
       <workItem from="1601888278944" duration="5193000" />
-      <workItem from="1603707510039" duration="3463000" />
+      <workItem from="1604310427725" duration="4350000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="444" y="224" key="#PHP" timestamp="1601888313401">
@@ -79,22 +63,22 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="191" y="193" width="1092" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601888315553" />
-    <state width="1815" height="182" key="GridCell.Tab.0.bottom" timestamp="1603718680727">
+    <state width="1815" height="292" key="GridCell.Tab.0.bottom" timestamp="1603707443697">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="182" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1603718680727" />
-    <state width="1815" height="182" key="GridCell.Tab.0.center" timestamp="1603718680727">
+    <state width="1815" height="292" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1603707443697" />
+    <state width="1815" height="292" key="GridCell.Tab.0.center" timestamp="1603707443697">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="182" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1603718680727" />
-    <state width="1815" height="182" key="GridCell.Tab.0.left" timestamp="1603718680727">
+    <state width="1815" height="292" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1603707443697" />
+    <state width="1815" height="292" key="GridCell.Tab.0.left" timestamp="1603707443697">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="182" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1603718680727" />
-    <state width="1815" height="182" key="GridCell.Tab.0.right" timestamp="1603718680727">
+    <state width="1815" height="292" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1603707443697" />
+    <state width="1815" height="292" key="GridCell.Tab.0.right" timestamp="1603707443697">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="182" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1603718680727" />
+    <state width="1815" height="292" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1603707443697" />
     <state x="647" y="250" key="run.anything.popup" timestamp="1601889019810">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
