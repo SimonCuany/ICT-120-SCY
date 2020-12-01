@@ -30,6 +30,12 @@
 
 </div>
 
+<div id="Homepage">
+    <h1 align="center">Bienvenue sur le site du Voyage d'étude du cpnv de Ste-Croix !</h1>
+    <img class="destination" id="IDdestination" src=" https://portuguese-american-journal.com/wp-content/uploads/2014/02/AAAAAAAAAAAAAAFLGAS.jpg" alt="portos">
+
+</div>
+
 
 
 <form method="post">

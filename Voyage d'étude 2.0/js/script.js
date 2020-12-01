@@ -1,9 +1,14 @@
 document.addEventListener('DOMContentLoaded', function () {
+
+
+
 //Afficher les participants
         document.getElementById("Btn_Participants").addEventListener("click", show_participant);
 
         function show_participant() {
             document.getElementById('Participants').classList.remove('hidden')
+            //Cacher page "Homepage"
+            document.getElementById("Homepage").classList.add('hidden')
         }
 
 
@@ -15,6 +20,8 @@ document.addEventListener('DOMContentLoaded', function () {
             document.getElementById('Participants').classList.add('hidden')
             document.getElementById('Hebergement').classList.add('hidden')
             document.getElementById('Activités').classList.add('hidden')
+            //Cacher page "Homepage"
+            document.getElementById("Homepage").classList.add('hidden')
         }
 
 //Afficher les hébergements
@@ -25,6 +32,8 @@ document.addEventListener('DOMContentLoaded', function () {
             document.getElementById('Participants').classList.add('hidden')
             document.getElementById('Transports').classList.add('hidden')
             document.getElementById('Activités').classList.add('hidden')
+            //Cacher page "Homepage"
+            document.getElementById("Homepage").classList.add('hidden')
         }
 
 //Afficher les activités
@@ -35,6 +44,8 @@ document.addEventListener('DOMContentLoaded', function () {
             document.getElementById('Transports').classList.add('hidden')
             document.getElementById('Hebergement').classList.add('hidden')
             document.getElementById('Participants').classList.add('hidden')
+            //Cacher page "Homepage"
+            document.getElementById("Homepage").classList.add('hidden')
         }
 
 
@@ -47,7 +58,6 @@ document.addEventListener('DOMContentLoaded', function () {
                 imgAlpha.src = "pictures/hotel-none.png"
             }
         })
-
 
     }
 )
